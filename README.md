@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaganesh003&label=Profile%20views&color=0e75b6&style=flat" alt="balaganesh003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaganesh003" alt="balaganesh003" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/balaganesh_003" target="blank"><img src="https://img.shields.io/twitter/follow/balaganesh_003?logo=twitter&style=for-the-badge" alt="balaganesh_003" /></a> </p>
 
 - 🌱 I’m currently learning **react**
@@ -17,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/balaganesh_003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balaganesh_003" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/balaganesh-k-512a0b215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaganesh-k-512a0b215" height="30" width="40" /></a>
-<a href="https://discord.gg/Balaganesh#8384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Balaganesh#8384" height="30" width="40" /></a>
+<a href="https://discord.gg/#8384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8384" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,6 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balaganesh003&show_icons=true&locale=en" alt="balaganesh003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balaganesh003&" alt="balaganesh003" /></p>
-
 
 
