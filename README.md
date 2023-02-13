@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **https://balaganesh-linktree.netlify.app/**
+- 📫 How to reach me **[https://balaganesh-dev.vercel.app/]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
