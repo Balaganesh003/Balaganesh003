@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/balaganesh_003" target="blank"><img src="https://img.shields.io/twitter/follow/balaganesh_003?logo=twitter&style=for-the-badge" alt="balaganesh_003" /></a> </p>
 
 - 🔭 Currently working on **React projects**
-- 🌱 Learning **React**
+- 🌱 Learning **Node**
 - 👯 Looking to collaborate on **React projects**
 - 🤝 Need help with **Redux**
 - 💬 Ask me about **React**
