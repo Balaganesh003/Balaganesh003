@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/balaganesh_003" target="blank"><img src="https://img.shields.io/twitter/follow/balaganesh_003?logo=twitter&style=for-the-badge" alt="balaganesh_003" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack projects**
+- 🔭 I’m currently working on **Java projects**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👯 I’m looking to collaborate on **MERN Stack project**
 
-- 🤝 I’m looking for help with **Node.js**
+- 🤝 I’m looking for help with **Java**
 
 - 👨‍💻 All of my projects are available at [https://balaganesh-dev.vercel.app/](https://balaganesh-dev.vercel.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **k.balaganesh26@gmail.com**
 
